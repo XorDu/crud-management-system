@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ—ƒï¸ CRUD Management System
+# 🗃️ CRUD Management System
 
 ### Database Management System with Full CRUD Operations
 
@@ -10,17 +10,17 @@
 
 ---
 
-## ðŸ“‹ About
+## 📋 About
 
 **CRUD Management System** is a database management project featuring complete Create, Read, Update, and Delete operations. Includes SQL schema definitions and data models designed for a practical, real-world use case.
 
-## âœ¨ Features
+## ✨ Features
 
-- ðŸ“Š **Full CRUD Operations** â€” Complete data management workflow
-- ðŸ—„ï¸ **SQL Schema** â€” Well-structured database design
-- ðŸ“‹ **Data Models** â€” Practical entity relationship design
+- 📊 **Full CRUD Operations** — Complete data management workflow
+- 🗄️ **SQL Schema** — Well-structured database design
+- 📋 **Data Models** — Practical entity relationship design
 
-## ðŸš€ Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - MySQL or compatible SQL server
@@ -35,12 +35,12 @@ git clone https://github.com/XorDu/crud-management-system.git
 mysql -u root -p < medicinas.sql
 ```
 
-## ðŸ¤ Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/XorDu/crud-management-system/issues).
 
 ---
 
 <div align="center">
-Made with â¤ï¸ by <a href="https://github.com/XorDu">XorDu</a>
+Made with ❤️ by <a href="https://github.com/XorDu">XorDu</a>
 </div>
